@@ -14,15 +14,15 @@ This project is developed as a low-cost prototype to enhance personal safety and
 - Can be upgraded with GPS and GSM modules for real-time location tracking and SMS alerts.
 - ## Hardware Components
 
-| Component and its Purpose |
+| Component | Purpose |
 
-| Arduino Uno - Main microcontroller that controls the system |
-| MPU6050 Accelerometer & Gyroscope - Detects sudden movement and calculates G-force |
-| HC-05 Bluetooth Module - Sends alert messages to a paired mobile device |
-| Active Buzzer - Produces an audible alarm when a snatch is detected |
-| Breadboard - Used for prototyping the circuit |
-| Jumper Wires - Connect all hardware components |
-| USB Cable - Powers and programs the Arduino |
+| Arduino Uno | Main microcontroller that controls the system |
+| MPU6050 Accelerometer & Gyroscope | Detects sudden movement and calculates G-force |
+| HC-05 Bluetooth Module | Sends alert messages to a paired mobile device |
+| Active Buzzer | Produces an audible alarm when a snatch is detected |
+| Breadboard | Used for prototyping the circuit |
+| Jumper Wires | Connect all hardware components |
+| USB Cable | Powers and programs the Arduino |
 ## Software & Libraries Used
 
 ### Software
